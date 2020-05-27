@@ -1,0 +1,38 @@
+baseurl                  = "https://www.joebarr.co.uk"           # Your domain name
+languageCode             = "en-gb"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "Joe Barr Music"
+theme                    = "sam"
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
+
+[params]
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "music.ico"
+    homepage             = "main"                           # What to call the home page link
+    footerText           = "Call me Sam, a theme for Hugo."
+
+# Metadata for Open Graph and Twitter
+    description          = "Arranger/Copyist/Transcriber/Music Director, available for hire."               # Max 160 characters show in search results
+    images               = ["main.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "Joe Barr Music"
+    # rss                = ""
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "who is joe?"
+
+[[params.mainMenu]]
+    link = "/skills"
+    text = "what can he do?"
+
+[[params.mainMenu]]
+    link = "/contact"
+    text = "get in touch"
+
+
+[imaging]
+    quality = 75
