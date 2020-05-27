@@ -1,0 +1,24 @@
+{
+  "name": "joebarr",
+  "version": "1.0.0",
+  "description": "website, putting postcss in",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joejbarr/joebarr.co.uk-fixed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joejbarr/joebarr.co.uk-fixed/issues"
+  },
+  "homepage": "https://github.com/joejbarr/joebarr.co.uk-fixed#readme",
+  "dependencies": {
+    "autoprefixer": "^9.8.0",
+    "postcss": "^7.0.31",
+    "postcss-cli": "^7.1.1"
+  }
+}
