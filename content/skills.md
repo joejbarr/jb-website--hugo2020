@@ -6,6 +6,8 @@ draft: false
 
 A selection of things I am available for. Please do [contact me](/contact) for more information!
 
+[Please go here for examples of my projects.](/gallery)
+
 ### Music Arrangments
 
 Arrangments for your new musical where you have the chords and melody down, or a string arrangment in your acoustic ballad, or a SATB Choir version of a pop song, or anything along these lines! I'm mainly interested in choral/orchestral Musical Theatre, but am open to pretty much anything. I work in Dorico and Sibelius.
